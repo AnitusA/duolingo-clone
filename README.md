@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 
-
 # Lingo - Interactive platform for language learning.
 
 ![Lingo - Interactive platform for language learning.](/.github/images/img_main.png "Lingo - Interactive platform for language learning.")
